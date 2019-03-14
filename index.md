@@ -14,7 +14,7 @@
 * [Lecture 7](https://muu24.github.io/Stats3D03_Fall_2017/notes/Lecture_7.pdf)
 * [Lecture 8](https://muu24.github.io/Stats3D03_Fall_2017/notes/Lecture_8.pdf)
 * [Lecture 10](https://muu24.github.io/Stats3D03_Fall_2017/notes/Lecture_10.pdf)
-* [Lecture 11](https://muu24.github.io/Stats3D03_Fall_2017/notes/Lecture_11.pdf)
+* [Lecture 11](https://muu24.github.io/Stats3D03_Fall_2017/notes/Lecture _11.pdf)
 
 ### Midterms  
 
