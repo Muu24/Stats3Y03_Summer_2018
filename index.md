@@ -1,4 +1,4 @@
-## Stats 3Y03/3J04 Spring/Summer, 2018
+## Stats 3Y03/3J04     Spring/Summer, 2018
 
 ### Outline
 * [Course Outline](https://muu24.github.io/Stats3D03_Fall_2017/notes/Course_Outline_3y3j_spring.pdf)
