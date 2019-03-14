@@ -1,2 +1,2 @@
-## Stats 3D03 Fall, 2017
+## Stats 3Y03/3J04 Summer, 2018
 ### Outline
